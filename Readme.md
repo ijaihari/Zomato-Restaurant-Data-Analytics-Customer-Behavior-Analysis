@@ -1,5 +1,7 @@
 # Zomato Restaurant Data Analytics: Customer Behavior Analysis
 
+Jupyter Notebook : https://github.com/ijaihari/Zomato-Restaurant-Data-Analytics-Customer-Behavior-Analysis/blob/main/Zomato%20Restaurant%20Data%20Analytics%20-%20Customer%20Behavior%20Analysis.ipynb <br/>
+
 **Overview** : In the highly competitive food and hospitality industry, understanding customer behavior and restaurant performance is critical for data-driven decision-making. <br/>
 
 This project analyzes Zomato restaurant data using Python to explore patterns in customer preferences, restaurant categories, pricing ranges, and ordering modes through exploratory data analysis (EDA).
@@ -66,5 +68,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 - A majority of restaurants still rely on offline services, while cafes show stronger online-order adoption.
 
 - Most couples prefer mid-range restaurants (~300 rupees for two), indicating value-conscious dining behavior.
+
 
 - Restaurants offering online orders tend to receive higher ratings, suggesting better customer experience or convenience.
